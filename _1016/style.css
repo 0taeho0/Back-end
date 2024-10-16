@@ -1,0 +1,36 @@
+* {margin: 0; padding: 0; }
+
+section {
+    width: 100%;
+    background-color: #ffffff;
+
+}
+
+.title {
+    text-align: center;
+    padding: 20px 0;
+}
+
+table {
+    width: 100%;
+    padding: 20px;
+}
+
+table th td{
+    
+}
+
+table td{
+    border: solid #f9f9f9 1px;
+    
+}
+
+table th{
+    background-color: #f2f2f2;
+    border: solid #f9f9f9 1px;
+    text-align: start;
+}
+
+.table_color {
+    background-color: #f9f9f9;
+}
